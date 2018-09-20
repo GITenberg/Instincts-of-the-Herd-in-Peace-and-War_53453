@@ -1,0 +1,32 @@
+_repo: Instincts-of-the-Herd-in-Peace-and-War_53453
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trotter, W. (Wilfred)
+    alias: Trotter, Wilfred
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '47379'
+    url: http://www.gutenberg.org/2009/agents/47379
+description: ''
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2016-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crowds'
+- !lcsh 'World War, 1914-1918 -- Psychological aspects'
+- !lcsh 'Social psychology'
+- !lcc 'HM'
+- !lcsh 'Collective behavior'
+- GITenberg
+tableOfContents: Herd instinct and its bearing on the psychology of civilized man
+  -- Sociological applications of the psychology of herd instinct -- Speculations
+  upon the human mind in 1915 -- Postscript of 1919.
+title: Instincts of the Herd in Peace and War
+url: http://www.gutenberg.org/ebooks/53453
